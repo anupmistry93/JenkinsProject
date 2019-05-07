@@ -15,7 +15,7 @@ public class Cart {
 		System.setProperty("webdriver.chrome.driver","E:\\chromeDriver\\chromedriver.exe");
 		driver=new ChromeDriver();
 		
-		//hkkfjfe
+		//hkke
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);

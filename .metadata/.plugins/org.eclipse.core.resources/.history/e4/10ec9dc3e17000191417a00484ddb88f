@@ -1,0 +1,13 @@
+package com.qa.amazon;
+
+public class Cart {
+	
+	
+	@Test
+	public void cartItem() {
+		
+		
+		
+	}
+
+}
